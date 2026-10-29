@@ -38,7 +38,7 @@ The application uses **Gemma 3:1B** through Ollama for local answer generation, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Pdf-conversational-rag.git
+git clone https://github.com/Vedline2547/Pdf-conversational-rag.git
 cd pdf-conversational-rag
 ```
 
